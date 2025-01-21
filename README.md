@@ -27,5 +27,5 @@ to open the development build in the browser.
 The APIs used are mocked inside the browser using [MSWJS](https://mswjs.io/). 
 A detailed docs on the API is available [here](src/mocks/README.md) if you need it.
 
-##
+## LICENSE
 The project is under AGPL-3.0 license and it's based on Alessandro Baldi boilerplate project, provided during the interview with [Aiko Space](https://aikospace.com/).

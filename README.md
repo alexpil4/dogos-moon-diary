@@ -1,6 +1,6 @@
 # Dogo's moon diary
 
-> "That a bad job interview is not a complete waste of time."
+> "That a bad job interview without feedback is not a complete waste of time."
 
 Vite SPA project for keeping record of moon observations. 
 

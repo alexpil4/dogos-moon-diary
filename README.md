@@ -2,7 +2,7 @@
 
 > "That a bad job interview is not a complete waste of time."
 
-The project is a vite SPA for keeping a record of observations of the moon.
+Vite SPA project for keeping record of moon observations. 
 
 ## Running the app
 
